@@ -152,7 +152,6 @@ I enjoy turning ideas into practical projects and learning by actually building 
 
 <br/><br/>
 
-### 🗄️ Database
 
 ### 🗄️ Databases
 
