@@ -134,15 +134,27 @@ I enjoy turning ideas into practical projects and learning by actually building 
 
 <div align="center">
 
-### 💻 Programming
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark&perline=8" />
 
 <br/><br/>
 
-### 🌐 Web Development
+### 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark&perline=8" />
+
+<br/><br/>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=8" />
+
+<br/><br/>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=8" />
 
 <br/><br/>
 
@@ -157,6 +169,20 @@ I enjoy turning ideas into practical projects and learning by actually building 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 
 <br/><br/>
+
+### 🧠 Computer Science
+
+<img src="https://img.shields.io/badge/DSA-Algorithmic%20Problem%20Solving-22c55e?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-06b6d4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-0f172a?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+<br/><br/>
+
+### 🔧 Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=8" />
+
+</div>
 
 ### 🔧 Tools
 
