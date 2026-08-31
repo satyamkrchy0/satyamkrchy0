@@ -22,48 +22,66 @@
 
 <br/>
 
----
+<!-- About -->
+<div align="left">
+  
+### About Me
+I’m a student focused on front‑end engineering and data literacy. I value clarity, performance, and good storytelling—whether in code, visuals, or words.
 
-## 👨‍💻 About Me
+- Engineering: semantic HTML, modern CSS, vanilla JavaScript
+- Programming: C, C++, Python
+- Data: exploration, visualization, and narrative with Python
 
-```python
-class Shivansh:
-    name       = "Shivansh Srivastava"
-    degree     = "B.Tech in Computer Science & Engineering"
-    passion    = ["AI","Web Development","Software Devlopment","Vibe Coding"]
-    languages  = ["Python", "Java", "C++", "JavaScript", "HTML/CSS"]
-    superpower = "Turning coffee ☕ into code 💻"
-    motto      = "Build things that matter."
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing 🚀")
-```
+</div>
 
-### 🤖 AI Performance Analyzer &nbsp;<a href="https://github.com/shivansh01-24/AI-Performance-Analyzer"><img src="https://img.shields.io/badge/Repo-181717?style=flat&amp;logo=github"></a>
+<!-- Side Animation -->
+<img align="right" width="340" alt="Animated developer at desk" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Ztc2t2b3d1aTZiYjY4cDVlYmlsOG1qZWk2c3k0d3Z4bWJzYnJjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" />
 
-> **AI-powered tool to analyze, benchmark, and visualize model/system performance**
+<!-- Skills -->
+### Tech Stack
+<div align="left">
+  
+- Core
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,c&perline=10" alt="HTML, CSS, JavaScript, Python, C++, C icons" />
 
-- 📉 Deep performance benchmarking and metric tracking
-- 🔍 AI-driven insights and bottleneck identification
-- 📊 Rich visualizations for model evaluation and comparison
+- Data & Visualization
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib&perline=10" alt="Python, NumPy, Pandas, Matplotlib icons" />
 
----
+- Tools & Workflow
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=10" alt="Git, GitHub, VS Code, Linux icons" />
 
-### 🍕 Pizza Mania &nbsp;<a href="https://github.com/shivansh01-24/Pizza-Mania-Veggie"><img src="https://img.shields.io/badge/Repo-181717?style=flat&amp;logo=github"></a>
+</div>
 
-> **A pizza-selling website with menu, home &amp; contact pages** — order system &amp; DB integration coming soon!
+<br clear="right"/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo=css3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black">
+<!-- Featured Metrics -->
+### GitHub Analytics
+<div align="center">
 
----
+  <img alt="Satyam's GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=satyamkrchy0&show_icons=true&rank_icon=github&hide_title=true&theme=radical&hide_border=false" />
+  <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkrchy0&layout=compact&theme=radical&hide_border=false" />
+  
+  <br/>
 
-### 🌾 Golden Fields &nbsp;<a href="https://github.com/shivansh01-24/rage"><img src="https://img.shields.io/badge/Repo-181717?style=flat&amp;logo=github"></a>
+  <img alt="GitHub Streak" height="180" src="https://streak-stats.demolab.com?user=satyamkrchy0&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" />
 
-> **Farmer-assistance platform** with crop info, farming practices &amp; mobile-responsive design. Weather updates coming soon!
+  <br/><br/>
 
-<img src="https://img.shields.io/badge/Mobile-Responsive-4CAF50?style=flat&amp;logo=google-chrome&amp;logoColor=white"> <img src="https://img.shields.io/badge/Purpose-AgriTech-8BC34A?style=flat">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=satyamkrchy0&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+  
+  <br/><br/>
 
----
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=satyamkrchy0&bg_color=0d1117&color=7fdbca&line=22c55e&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<!-- Creative Corner -->
+### Writing & Creative Work
+> “Code is structure. Poetry is rhythm. Good products need both.”
+
+I write poems and short stories, and I bring the same attention to rhythm, clarity, and tone into my code and data visualizations.
 
 <!-- Contact -->
 ### Get in Touch
