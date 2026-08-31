@@ -154,7 +154,9 @@ I enjoy turning ideas into practical projects and learning by actually building 
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=8" />
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark&perline=8" />
 
 <br/><br/>
 
